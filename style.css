@@ -1,0 +1,19 @@
+#tables {
+    width: 1000px;
+}
+
+#tab1 {
+    display: inline-block;
+}
+
+#tab2 {
+    display: inline-block;
+    margin-left: 200px;
+}
+
+form {
+    border: 1px solid black;
+    padding: 2%;
+    background-color: black;
+    color: orange;
+}
