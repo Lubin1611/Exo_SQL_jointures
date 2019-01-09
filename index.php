@@ -9,9 +9,9 @@
 // Premiere ligne
 
 $servername = "localhost";
-$username = "id7331055_lubin";
-$password = "exobase";
-$dbname = "id7331055_nibul";
+$username = "#######";
+$password = "######";
+$dbname = "#######";
 
 $conn = new mysqli($servername, $username, $password);
 
